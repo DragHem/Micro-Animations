@@ -19,3 +19,17 @@ body {
   padding: 5rem;
   border-radius: 2rem;
 }
+
+.home,
+.notification,
+.messages {
+  display: flex;
+  padding: 2rem;
+  align-items: center;
+}
+
+.home-title,
+.notification-title,
+.message-title {
+  padding-left: 2rem;
+}
