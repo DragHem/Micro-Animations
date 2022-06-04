@@ -12,3 +12,10 @@ body {
   align-items: center;
   font-family: "Poppins", sans-serif;
 }
+
+.container {
+  background-color: white;
+  color: black;
+  padding: 5rem;
+  border-radius: 2rem;
+}
